@@ -5,11 +5,11 @@
 1. *Navigate to the project folder:*
    ```bash
    cd intent-tech
-   npm install
-   npm start
+   run npm install
+   run npm start
    ```
 ## Question 1: 
-- Navigate to "/http://localhost:3000" to view the landing page design.
+- Navigate to "http://localhost:3000" to view the landing page design.
 
 ## Question 2: 
 - Navigate to "http://localhost:3000/books" to view the books CRUD application.
