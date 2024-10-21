@@ -1,6 +1,6 @@
 import React from "react";
 import Input from "../shared/Input";
-import Box from "../../assets/rectangle.png";
+import Message from "../../assets/message.png";
 import Tel from "../../assets/tel.png";
 const ContactUs = () => {
   const partnerInputs = [
@@ -30,7 +30,7 @@ const ContactUs = () => {
           </p>
           <div className="message">
           <div className="relative flex items-center my-2" >
-              <img src={Box} alt="Download icon" className="w-5 h-4" />
+              <img src={Message} alt="Download icon" className="w-5 h-4" />
               <span className="ml-2 text-[#B63BBD] text-sm">admin@conference.com</span>
             </div>
           <div className="relative flex items-center my-2" >

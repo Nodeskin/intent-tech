@@ -4,7 +4,6 @@
 
 1. *Navigate to the project folder:*
    ```bash
-   cd intent-tech
    run npm install
    run npm start
    ```
