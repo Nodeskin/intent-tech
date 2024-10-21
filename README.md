@@ -1,4 +1,4 @@
-# Bookstore Application
+# Intent-Tech Assessment
 
 ## Setup Instructions
 
